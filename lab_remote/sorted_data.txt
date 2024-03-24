@@ -1,0 +1,10 @@
+mountains data sorted in ascending order
+Name: ცივი, Heihgt: 1991
+Name: აჭარა, Heihgt: 2908
+Name: საყორნია, Heihgt: 3280
+Name: ფსისი, Heihgt: 3790
+Name: დიკლოს_მთა, Heihgt: 4285
+Name: რუსთაველის_პიკი, Heihgt: 4622
+Name: უშბა, Heihgt: 4695
+Name: მყინვარწვერი, Heihgt: 5047
+Name: შხარა, Heihgt: 5068
