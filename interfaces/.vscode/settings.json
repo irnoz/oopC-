@@ -1,9 +1,10 @@
 {
-    "files.associations": {
-        ".fantomasignore": "ignore",
-        "vector": "cpp",
-        "__split_buffer": "cpp",
-        "deque": "cpp",
-        "string": "cpp"
-    }
+  "files.associations": {
+    ".fantomasignore": "ignore",
+    "vector": "cpp",
+    "__split_buffer": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "iostream": "cpp"
+  }
 }

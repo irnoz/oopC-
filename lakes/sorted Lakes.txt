@@ -1,0 +1,7 @@
+Some Georgia Lakes are:
+
+Name is lake4 , Area is 2, Depth is 223
+Name is lake1 , Area is 12, Depth is 324
+Name is lake2 , Area is 3234, Depth is 23
+Name is lake3 , Area is 3455, Depth is 23
+Name is laek5 , Area is 9999, Depth is 54545

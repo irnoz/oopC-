@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "ios": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "sstream": "cpp",
+        "string": "cpp",
+        "__string": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "streambuf": "cpp",
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "__config": "cpp",
+        "ranges": "cpp"
+    }
+}
